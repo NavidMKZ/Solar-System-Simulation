@@ -23,11 +23,10 @@ pip install vpython
 </pre>
 ### Running the Simulation
 To run the simulation, execute the Python script:
+<pre>
+ Mechanics_project.py
+</pre>
 
-bash
-
-Copy
-python solar_system_simulator.py
 ### Program Modes
 1. The first four planets: Simulates Mercury, Venus, Earth, and Mars.
 
