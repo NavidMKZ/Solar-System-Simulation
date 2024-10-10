@@ -18,17 +18,6 @@ This Python code simulates the real-time orbitation of planets around the sun us
 
 * datetime module for handling dates and times
 
-### Installing VPython
-You can install VPython using pip:
-<pre>
-pip install vpython
-</pre>
-### Running the Simulation
-To run the simulation, execute the Python script:
-<pre>
- Mechanics_project.py
-</pre>
-
 ### Program Modes
 1. The first four planets: simulate Mercury, Venus, Earth, and Mars.
 
