@@ -31,11 +31,11 @@ bash
 Copy
 python solar_system_simulator.py
 ### Program Modes
-1_ The first four planets: Simulates Mercury, Venus, Earth, and Mars.
+1. The first four planets: Simulates Mercury, Venus, Earth, and Mars.
 
-2_ The last five planets: Simulates Jupiter, Saturn, Uranus, Neptune, and Pluto.
+2. The last five planets: Simulates Jupiter, Saturn, Uranus, Neptune, and Pluto.
 
-3_ All: Simulates all nine planets.
+3. All: Simulates all nine planets.
 
 ### Graph Options
 Choose whether to display graphs of the distance of each planet from the sun over time.
