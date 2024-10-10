@@ -12,7 +12,7 @@ This Python code simulates the real-time orbitation of planets around the sun us
 
 ## Getting Started
 ### Prerequisites
-* Python 3.x
+* Python 3
 
 * VPython library for 3D visualization
 
