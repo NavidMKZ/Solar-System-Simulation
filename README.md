@@ -46,4 +46,4 @@ Choose whether to display graphs of the distance of each planet from the sun ove
 
 
 ## Author
-### Navid Markazi
+### #Navid Markazi,Isfahan University of Technology,December 2020
