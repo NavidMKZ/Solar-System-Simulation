@@ -18,11 +18,9 @@ Welcome to the Solar System Simulator project! This Python code simulates the re
 
 ### Installing VPython
 You can install VPython using pip:
-
-bash
-
-Copy
+<pre>
 pip install vpython
+</pre>
 ### Running the Simulation
 To run the simulation, execute the Python script:
 
@@ -41,12 +39,12 @@ python solar_system_simulator.py
 Choose whether to display graphs of the distance of each planet from the sun over time.
 
 ### Functions
-Julian_Date(time): Calculates the Julian century.
+* Julian_Date(time): Calculates the Julian century.
 
-POE(T): Calculates Planetary Orbital Elements.
+* POE(T): Calculates Planetary Orbital Elements.
 
-planet_fun(time): Calculates the coordinates of the planets relative to the plane of the zodiac.
+* planet_fun(time): Calculates the planets' coordinates.
 
 
 ## Author
-Navid Markazi
+### Navid Markazi
