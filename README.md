@@ -1,4 +1,6 @@
 ## Solar System Simulator
+![My Image](scene.png)
+
 Welcome to the Solar System Simulator project! This Python code simulates the real-time orbitation of planets around the sun using orbital elements. It calculates the X, Y, Z positions of the planets and their distances from the sun, and visualizes the results.
 
 ## Features
